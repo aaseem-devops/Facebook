@@ -1,1 +1,2 @@
 This is the text file created in Github.
+This statement is added through GitBash.
